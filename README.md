@@ -52,7 +52,7 @@ Proyecto de aplicación móvil Android nativa desarrollada utilizando **Jetpack 
 
 | Inicio de Sesión (`LoginScreen`) | Crear Cuenta (`RegistroScreen`) | Recuperar Contraseña (`RecuperarScreen`) |
 | :---: | :---: | :---: |
-| ![Login](screenshots/login_emulator.png) | ![Registro](screenshots/registro_emulator.png) | ![Recuperar](screenshots/recuperar_emulator.png) |
+| <img src="https://raw.githubusercontent.com/andresquintoquintobejarano-art/Andrroid-Actvidad-4/main/screenshots/login_emulator.png" width="250" alt="Login" /> | <img src="https://raw.githubusercontent.com/andresquintoquintobejarano-art/Andrroid-Actvidad-4/main/screenshots/registro_emulator.png" width="250" alt="Registro" /> | <img src="https://raw.githubusercontent.com/andresquintoquintobejarano-art/Andrroid-Actvidad-4/main/screenshots/recuperar_emulator.png" width="250" alt="Recuperar" /> |
 
 ---
 
@@ -88,6 +88,6 @@ android-actividad-4/
 1. **Android Studio:** Ladybug / Iguana o superior (compatibilidad con Jetpack Compose y Kotlin 2.0+).
 2. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/TU_USUARIO/android-actividad-4.git
+   git clone https://github.com/andresquintoquintobejarano-art/Andrroid-Actvidad-4.git
    ```
 3. Abrir el proyecto en Android Studio, sincronizar Gradle (`Sync Project with Gradle Files`) y ejecutar en un emulador Android (API 24+).
